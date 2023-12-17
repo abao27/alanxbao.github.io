@@ -3,7 +3,7 @@ Personal portfolio
 
 Contact:
 [![linkedin](img/linkedin.svg)](http://linkedin.com/in/alan-bao/)  [![email](img/mail.svg)](http://mail.google.com)
-![email](img/mail.svg)<a href="mailto:alanb@berkeley.edu"></a>
+[![email](img/mail.svg)](<a href="mailto:alanb@berkeley.edu"></a>)
 
 
 ![joever](/img/itsjoever.png)
