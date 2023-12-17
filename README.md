@@ -6,4 +6,4 @@ Personal portfolio
 ![coindungeon](/vid/coindungeon.mp4)
 
 
-[![](/imp/itsjoever.png)](https://www.linkedin.com/in/alan-bao/)
+[![](/img/itsjoever.png)](https://www.linkedin.com/in/alan-bao/)
