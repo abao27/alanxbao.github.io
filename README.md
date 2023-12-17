@@ -7,6 +7,13 @@ cs oski man
 ![joever](/img/itsjoever.png)
 
 ## Projects
+- [Coin Dungeon](#coin-dungeon)
+- [TaxTools](#taxtools-(political-cs-@-berkeley))
+- [SIXT33N Robot](#sixt33n-robot)
+- [CS61CPU](#cs61cpu)
+- [Snek](#snek)
+- [Arin Igor, Your AI Therapist](#arin-igor-ai-therapist-(work-in-progress))
+
 ### Coin Dungeon
 Skills: Java, Graphic Design
 
@@ -42,7 +49,7 @@ Skills: C
 
 apple yum
 
-### Arin Igor AI Therapist (Work in Progress)
+### Arin Igor, your AI Therapist (Work in Progress)
 Skills: Python, Machine Learning, UI/UX
 
 hackathon figma type beat used Lume AI or smth
