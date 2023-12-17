@@ -8,11 +8,11 @@ cs oski man
 
 ## Projects
 - [Coin Dungeon](#coin-dungeon)
-- [TaxTools](#taxtools-(political-cs-@-berkeley))
+- [TaxTools](#taxtools-political-cs-@-berkeley)
 - [SIXT33N Robot](#sixt33n-robot)
 - [CS61CPU](#cs61cpu)
 - [Snek](#snek)
-- [Arin Igor, Your AI Therapist](#arin-igor-ai-therapist-(work-in-progress))
+- [Arin Igor, Your AI Therapist](#arin-igor-ai-therapist-work-in-progress)
 
 ### Coin Dungeon
 Skills: Java, Graphic Design
