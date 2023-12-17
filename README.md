@@ -12,7 +12,7 @@ cs oski man
 - [SIXT33N Robot](#sixt33n-robot)
 - [CS61CPU](#cs61cpu)
 - [Snek](#snek)
-- [Arin Igor, Your AI Therapist](#arin-igor,-your-ai-therapist)
+- [Arin Igor, Your AI Therapist](#arin-igor-ai-therapist)
 
 ### Coin Dungeon
 Skills: Java, Graphic Design
@@ -49,7 +49,7 @@ Skills: C
 
 apple yum
 
-### Arin Igor, Your AI Therapist
+### Arin Igor AI Therapist
 Skills: Python, Machine Learning, UI/UX
 
 hackathon figma type beat used Lume AI or smth
