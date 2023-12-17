@@ -1,8 +1,8 @@
-# Mister Bao
+# Mister Bao  [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
 Personal portfolio
 
 Contact:
-[![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
+
 
 ## About
 cs man
