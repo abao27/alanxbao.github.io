@@ -12,7 +12,7 @@ cs oski man
 - [SIXT33N Robot](#sixt33n-robot)
 - [CS61CPU](#cs61cpu)
 - [Snek](#snek)
-- [Arin Igor, Your AI Therapist](#arin-igor-ai-therapist)
+- [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist)
 
 ### Coin Dungeon
 Skills: Java, Graphic Design
