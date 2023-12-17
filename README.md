@@ -4,7 +4,6 @@
 cs oski man
 
 
-![joever](/img/itsjoever.png)
 
 ## Projects
 - [Coin Dungeon](#coin-dungeon)
@@ -38,6 +37,9 @@ In this demo, I play around with different settings (Fiscal Year, Marital Status
 Skills: burning my finger tip with the regulator gg
 
 some random breadboarding jawn plus arduino and C# coding or whatever the lang was that make robot move when spoken to also did sum linalg while was at it
+
+
+![joever](/img/itsjoever.png)
 
 ### CS61CPU
 Skills: monke
