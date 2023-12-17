@@ -3,6 +3,8 @@ logo: /img/itsjoever.png
 description: professional slots player
 theme: jekyll-theme-minimal
 github: False
+image:
+  background: /img/itsjoever.png
 
 author:
   name: Alan Bao
