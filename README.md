@@ -8,11 +8,11 @@ cs oski man
 
 ## Projects
 - [Coin Dungeon](#coin-dungeon)
-- [TaxTools](#taxtools-political-cs-@-berkeley)
+- [TaxTools](#taxtools)
 - [SIXT33N Robot](#sixt33n-robot)
 - [CS61CPU](#cs61cpu)
 - [Snek](#snek)
-- [Arin Igor, Your AI Therapist](#arin-igor-ai-therapist-work-in-progress)
+- [Arin Igor, Your AI Therapist](#arin-igor,-your-ai-therapist)
 
 ### Coin Dungeon
 Skills: Java, Graphic Design
@@ -26,7 +26,7 @@ Skills: Java, Graphic Design
 In the demo below, I enter a seed and start the game, which generates a random world. I then toggle dark and light mode with the "I" and "O" keys, and proceed to collect all the coins. After all the coins are collected, a win screen pops up.
 ![coindungeon](/vid/coindungeon.mp4)
 
-### TaxTools (Political CS @ Berkeley)
+### TaxTools
 Skills: JavaScript, Data Analysis, Research
 
 TaxTools is a static website designed in a small project team in my club, Political CS @ Berkeley. This website visualizes tax data based on user settings and simulates one's savings and retirement. I mainly had a backend role in this project, where I researched and analyzed US Government financial data to write functions that calculated one's taxes and finances.
@@ -49,7 +49,7 @@ Skills: C
 
 apple yum
 
-### Arin Igor, your AI Therapist (Work in Progress)
+### Arin Igor, Your AI Therapist
 Skills: Python, Machine Learning, UI/UX
 
 hackathon figma type beat used Lume AI or smth
