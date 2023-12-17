@@ -2,8 +2,13 @@
 Personal portfolio
 
 Contact:
-[![linkedin](img/linkedin.svg)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/mail.svg)</a>
+[![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
 
+## About
+cs man
+
+## Education
+oski
 
 ![joever](/img/itsjoever.png)
 
