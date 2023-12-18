@@ -63,11 +63,15 @@ In this project for my computer architecture class (CS61C), I built a simple 2-s
 
 Due to course policy, there is no demo, but a list of runnable instructions are enumerated below.
 |Instructions (Name: ```Instruction```)|||||||||
+
+
+Instructions (Name: ```Instruction```)
 |---|---|---|---|---|---|---|---|---|
 |Add: ```add```|Multiply: ```mul```|Subtract: ```sub```|Shift Left Logical: ```sll```|Multiply Upper Half: ```mulh```|Multiply Upper Half (Unsigned): ```mulhu```|Set Less Than: ```slt```|Bitwise XOR: ```xor```|Shift Right Logical: ```srl```|
 |Shift Right Arithmetic: ```sra```|Bitwise OR: ```or```|Bitwise AND: ```and```|Load Byte: ```lb```|Load Half-word: ```lh```|Load Word: ```lw```|Add Immediate: ```addi```|Shift Logical Left Immediate: ```slli```|Set Less Than Immediate: ```slti```|
 |Bitwise XOR Immediate: ```xori```|Shift Right Logical Immediate: ```srli```|Shift Right Arithmetic Immediate: ```srai```|Bitwise OR Immediate: ```ori```|Bitwise AND Immediate: ```andi```|Store Byte: ```sb```|Store Half-word: ```sh```|Store Word: ```sw```|Branch if Equal: ```beq```|
 |Branch if Not Equal: ```bne```|Branch if Less Than: ```blt```|Branch if Greater or Equal: ```bge```|Branch if Less Than (Unsigned): ```bltu```|Branch if Greater or Equal (Unsigned): ```bgeu```|Add Upper Immediate to PC: ```auipc```|Load Upper Immediate: ```lui```|Jump and Link: ```jal```|Jump and Link Register: ```jalr```|
+
 Note: all instructions are signed instructions unless labeled otherwise
 
 ### UCSD Radiology Research
