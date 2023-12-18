@@ -65,6 +65,7 @@ Due to course policy, there is no demo, but a list of runnable instructions are 
 
 
 **Instructions (Name: ```Instruction```)**
+
 ||||||||||
 |---|---|---|---|---|---|---|---|---|
 |Add: ```add```|Multiply: ```mul```|Subtract: ```sub```|Shift Left Logical: ```sll```|Multiply Upper Half: ```mulh```|Multiply Upper Half (Unsigned): ```mulhu```|Set Less Than: ```slt```|Bitwise XOR: ```xor```|Shift Right Logical: ```srl```|
