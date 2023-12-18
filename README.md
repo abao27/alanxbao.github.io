@@ -77,8 +77,8 @@ Note: all instructions are signed instructions unless labeled otherwise
 
 
 
-[ISMRM Pitch (#0532)](https://www.ismrm.org/22/program-files/PP-17.htm)
-[Link to abstract](https://drive.google.com/file/d/14HTdGWiZePESkoU4TQ5-qmgxxBq_0krJ/view?usp=sharing)
+
+[Link to abstract](https://drive.google.com/file/d/14HTdGWiZePESkoU4TQ5-qmgxxBq_0krJ/view?usp=sharing)  |  [ISMRM Pitch (#0532)](https://www.ismrm.org/22/program-files/PP-17.htm)
 
 ### Arin Igor AI Therapist
 **Skills**: Python, Machine Learning, UI/UX, Research
