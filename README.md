@@ -50,7 +50,7 @@ This version of the classic snake is simple and playable in your terminal! For t
 - *\** - The apple the snake wants to eat.
 - *#* - The borders/walls of the world.
 
-In the short snippet of the game demo below, I use the WASD keys to navigate the snake in the world map and eat the apples. When my snake's head crashed into its body, it dies and the game ends.
+In the short snippet of the game demo above, I use the WASD keys to navigate the snake in the world map and eat the apples. When my snake's head crashed into its body, it dies and the game ends.
 
 
 ### SIXT33N Robot
