@@ -1,7 +1,7 @@
 # Mister Bao  [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
 
 ## About
-cs oski man
+cs oski man '25
 
 
 
@@ -11,6 +11,7 @@ cs oski man
 - [Terminal Snake](#terminal-snake)
 - [SIXT33N Robot](#sixt33n-robot)
 - [CS61CPU](#cs61cpu)
+- [UCSD Radiology Research](#ucsd-radiology-research)
 - [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist)
 
 ### Coin Dungeon
@@ -57,12 +58,11 @@ some random breadboarding jawn plus arduino and C# coding or whatever the lang w
 ![joever](/img/itsjoever.png)
 
 ### CS61CPU
-**Skills**: monke, Assembly (RISC-V), Logic Circuits
+**Skills**: CPU, Assembly (RISC-V), Logic Circuits
 
-In this project for my computer architecture class (CS61C), I built a simple 2-stage pipelined CPU that runs RISC-V instructions in Logisim.
+In this project for my computer architecture class (CS61C), I built a simple 2-stage pipelined CPU that runs RISC-V instructions in Logisim. This challenged and tested my understanding of the RISC-V Datapath and logic circuits.
 
-Due to course policy, there is no demo, but a list of runnable instructions are enumerated below.
-
+Due to course policy, there is no demo, but a list of runnable instructions are enumerated below. Note that all instructions are signed unless specified otherwise.
 |Name: ```Instruction```|||||||||
 |---|---|---|---|---|---|---|---|---|
 |Add: ```add```|Multiply: ```mul```|Subtract: ```sub```|Shift Left Logical: ```sll```|Multiply Upper Half: ```mulh```|Multiply Upper Half (Unsigned): ```mulhu```|Set Less Than: ```slt```|Bitwise XOR: ```xor```|Shift Right Logical: ```srl```|
@@ -70,12 +70,11 @@ Due to course policy, there is no demo, but a list of runnable instructions are 
 |Bitwise XOR Immediate: ```xori```|Shift Right Logical Immediate: ```srli```|Shift Right Arithmetic Immediate: ```srai```|Bitwise OR Immediate: ```ori```|Bitwise AND Immediate: ```andi```|Store Byte: ```sb```|Store Half-word: ```sh```|Store Word: ```sw```|Branch if Equal: ```beq```|
 |Branch if Not Equal: ```bne```|Branch if Less Than: ```blt```|Branch if Greater or Equal: ```bge```|Branch if Less Than (Unsigned): ```bltu```|Branch if Greater or Equal (Unsigned): ```bgeu```|Add Upper Immediate to PC: ```auipc```|Load Upper Immediate: ```lui```|Jump and Link: ```jal```|Jump and Link Register: ```jalr```|
 
-Note: all instructions are signed instructions unless labeled otherwise
 
 ### UCSD Radiology Research
-**Skills**: Statistics, Data Analysis and Visualization
+**Skills**: Statistics, Data Analysis and Visualization, Matlab
 
-
+As a research intern for UCSD Radiology, I (did some statistical and data fitting and visualization with matlab or sum)
 
 
 [Link to abstract](https://drive.google.com/file/d/14HTdGWiZePESkoU4TQ5-qmgxxBq_0krJ/view?usp=sharing)  |  [ISMRM Pitch (#0532)](https://www.ismrm.org/22/program-files/PP-17.htm)
