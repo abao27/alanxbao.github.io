@@ -63,6 +63,7 @@ some random breadboarding jawn plus arduino and C# coding or whatever the lang w
 In this project for my computer architecture class (CS61C), I built a simple 2-stage pipelined CPU that runs RISC-V instructions in Logisim. This challenged and tested my understanding of the RISC-V Datapath and logic circuits.
 
 Due to course policy, there is no demo, but a list of runnable instructions are enumerated below. Note that all instructions are signed unless specified otherwise.
+
 |Name: ```Instruction```|||||||||
 |---|---|---|---|---|---|---|---|---|
 
