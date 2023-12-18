@@ -63,10 +63,7 @@ In this project for my computer architecture class (CS61C), I built a simple 2-s
 
 Due to course policy, there is no demo, but a list of runnable instructions are enumerated below.
 
-
-**Instructions (Name: ```Instruction```)**
-
-||||||||||
+|**Instructions (Name: ```Instruction```)**|||||||||
 |---|---|---|---|---|---|---|---|---|
 |Add: ```add```|Multiply: ```mul```|Subtract: ```sub```|Shift Left Logical: ```sll```|Multiply Upper Half: ```mulh```|Multiply Upper Half (Unsigned): ```mulhu```|Set Less Than: ```slt```|Bitwise XOR: ```xor```|Shift Right Logical: ```srl```|
 |Shift Right Arithmetic: ```sra```|Bitwise OR: ```or```|Bitwise AND: ```and```|Load Byte: ```lb```|Load Half-word: ```lh```|Load Word: ```lw```|Add Immediate: ```addi```|Shift Logical Left Immediate: ```slli```|Set Less Than Immediate: ```slti```|
