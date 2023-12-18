@@ -59,15 +59,24 @@ some random breadboarding jawn plus arduino and C# coding or whatever the lang w
 ### CS61CPU
 **Skills**: monke, Assembly (RISC-V), Logic Circuits
 
-In this project for my computer architecture class (CS61C), I built a simple pipelined CPU that runs RISC-V instructions in Logisim.
+In this project for my computer architecture class (CS61C), I built a simple 2-stage pipelined CPU that runs RISC-V instructions in Logisim.
 
-built a basic cpu on logisim or smth
+Due to course policy, there is no demo, but a list of runnable instructions are enumerated below.
+|Instructions (Name: ```Instruction```)|||||||||
+|---|---|---|---|---|---|---|---|---|
+|Add: ```add```|Multiply: ```mul```|Subtract: ```sub```|Shift Left Logical: ```sll```|Multiply Upper Half: ```mulh```|Multiply Upper Half (Unsigned): ```mulhu```|Set Less Than: ```slt```|Bitwise XOR: ```xor```|Shift Right Logical: ```srl```|
+|Shift Right Arithmetic: ```sra```|Bitwise OR: ```or```|Bitwise AND: ```and```|Load Byte: ```lb```|Load Half-word: ```lh```|Load Word: ```lw```|Add Immediate: ```addi```|Shift Logical Left Immediate: ```slli```|Set Less Than Immediate: ```slti```|
+|Bitwise XOR Immediate: ```xori```|Shift Right Logical Immediate: ```srli```|Shift Right Arithmetic Immediate: ```srai```|Bitwise OR Immediate: ```ori```|Bitwise AND Immediate: ```andi```|Store Byte: ```sb```|Store Half-word: ```sh```|Store Word: ```sw```|Branch if Equal: ```beq```|
+|Branch if Not Equal: ```bne```|Branch if Less Than: ```blt```|Branch if Greater or Equal: ```bge```|Branch if Less Than (Unsigned): ```bltu```|Branch if Greater or Equal (Unsigned): ```bgeu```|Add Upper Immediate to PC: ```auipc```|Load Upper Immediate: ```lui```|Jump and Link: ```jal```|Jump and Link Register: ```jalr```|
+Note: all instructions are signed instructions unless labeled otherwise
 
 ### UCSD Radiology Research
+**Skills**: Statistics, Data Analysis and Visualization
 
-[ISMRM Pitch](https://www.ismrm.org/22/program-files/PP-17.htm)
 
- <embed src="/files/ucsdradiology.pdf" type="application/pdf">
+
+[ISMRM Pitch (#0532)](https://www.ismrm.org/22/program-files/PP-17.htm)
+[Link to abstract](https://drive.google.com/file/d/14HTdGWiZePESkoU4TQ5-qmgxxBq_0krJ/view?usp=sharing)
 
 ### Arin Igor AI Therapist
 **Skills**: Python, Machine Learning, UI/UX, Research
