@@ -67,7 +67,7 @@ built a basic cpu on logisim or smth
 
 [ISMRM Pitch](https://www.ismrm.org/22/program-files/PP-17.htm)
 
- <iframe src= "files/ucsdradiology.pdf" width="800"height="500"> </iframe>
+ <embed src="/files/ucsdradiology.pdf" type="application/pdf">
 
 ### Arin Igor AI Therapist
 **Skills**: Python, Machine Learning, UI/UX, Research
