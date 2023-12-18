@@ -66,7 +66,6 @@ Due to course policy, there is no demo, but a list of runnable instructions are 
 
 |Name: ```Instruction```|||||||||
 |---|---|---|---|---|---|---|---|---|
-
 |Add: ```add```|Multiply: ```mul```|Subtract: ```sub```|Shift Left Logical: ```sll```|Multiply Upper Half: ```mulh```|Multiply Upper Half (Unsigned): ```mulhu```|Set Less Than: ```slt```|Bitwise XOR: ```xor```|Shift Right Logical: ```srl```|
 |Shift Right Arithmetic: ```sra```|Bitwise OR: ```or```|Bitwise AND: ```and```|Load Byte: ```lb```|Load Half-word: ```lh```|Load Word: ```lw```|Add Immediate: ```addi```|Shift Logical Left Immediate: ```slli```|Set Less Than Immediate: ```slti```|
 |Bitwise XOR Immediate: ```xori```|Shift Right Logical Immediate: ```srli```|Shift Right Arithmetic Immediate: ```srai```|Bitwise OR Immediate: ```ori```|Bitwise AND Immediate: ```andi```|Store Byte: ```sb```|Store Half-word: ```sh```|Store Word: ```sw```|Branch if Equal: ```beq```|
