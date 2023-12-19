@@ -14,7 +14,7 @@ cs oski man '25
 
 ---
 
-## *Coin Dungeon*
+### *Coin Dungeon*
 ![coindungeon](/vid/coindungeon.mp4)
 
 **Skills**: Java, Graphic Design
