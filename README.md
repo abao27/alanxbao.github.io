@@ -14,7 +14,7 @@ cs oski man '25
 - [UCSD Radiology Research](#ucsd-radiology-research)
 - [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist)
 
-## <span style="color: (37,124,185);">Coin Dungeon</span>
+## <span style="color: rgb(37,124,185);">Coin Dungeon</span>
 ![coindungeon](/vid/coindungeon.mp4)
 
 **Skills**: Java, Graphic Design
@@ -29,7 +29,7 @@ In the demo above, I enter a seed and start the game, which generates a random w
 
 ___
 
-## <span style="color: (37,124,185);">TaxTools</span>
+## <span style="color: rgb(37,124,185);">TaxTools</span>
 ![PCSTaxTools](/vid/pcstaxtools.mp4)
 
 **Skills**: JavaScript, Data Analysis, Research
@@ -40,7 +40,7 @@ In this demo, I play around with different settings (Fiscal Year, Marital Status
 
 ___
 
-## <span style="color: (37,124,185);">Terminal Snake</span>
+## <span style="color: rgb(37,124,185);">Terminal Snake</span>
 ![Terminal Snake](/vid/snake.mp4)
 
 **Skills**: C
@@ -56,7 +56,7 @@ In the short snippet of the game demo above, I use the WASD keys to navigate the
 
 ___
 
-## <span style="color: (37,124,185);">SIXT33N Voice Controlled Robot</span>
+## <span style="color: rgb(37,124,185);">SIXT33N Voice Controlled Robot</span>
 ![joever](/img/itsjoever.png)
 
 **Skills**: Arduino, Circuit Design and Analysis, Numpy, Linear Algebra
@@ -67,7 +67,7 @@ some random breadboarding jawn plus arduino and C# coding or whatever the lang w
 
 ___
 
-### <span style="color: (37,124,185);">CS61CPU</span>
+## <span style="color: rgb(37,124,185);">CS61CPU</span>
 **Skills**: CPU, Assembly (RISC-V), Logic Circuits
 
 In this project for my computer architecture class (CS61C), I built a simple 2-stage pipelined CPU that runs RISC-V instructions in Logisim. This challenged and tested my understanding of the RISC-V Datapath and logic circuits.
@@ -83,7 +83,7 @@ Due to course policy, there is no demo, but a list of runnable instructions are 
 
 ___
 
-### <span style="color: (37,124,185);">UCSD Radiology Research</span>
+## <span style="color: rgb(37,124,185);">UCSD Radiology Research</span>
 **Skills**: Statistics, Data Analysis and Visualization, Matlab
 
 As a research intern for UCSD Radiology, I (did some statistical and data fitting and visualization with matlab or sum)
@@ -93,7 +93,7 @@ As a research intern for UCSD Radiology, I (did some statistical and data fittin
 
 ___
 
-### <span style="color: (37,124,185);">Arin Igor AI Therapist</span>
+## <span style="color: rgb(37,124,185);">Arin Igor AI Therapist</span>
 **Skills**: Python, Machine Learning, UI/UX, Research
 
 hackathon figma type beat used Lume AI or smth
