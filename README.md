@@ -1,9 +1,9 @@
-# About   [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
+# <span style="color: rgb(37,168,240);">About</span>   [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
 cs oski man '25
 
 
 
-# Projects
+# <span style="color: rgb(37,168,240);">Projects</span>
 - [Coin Dungeon](#coin-dungeon)
 - [TaxTools](#taxtools)
 - [Terminal Snake](#terminal-snake)
@@ -89,7 +89,7 @@ ___
 As a research intern for UCSD Radiology, I (did some statistical and data fitting and visualization with matlab or sum)
 
 
-[Link to abstract](https://drive.google.com/file/d/14HTdGWiZePESkoU4TQ5-qmgxxBq_0krJ/view?usp=sharing)  |  [ISMRM Pitch (#0532)](https://www.ismrm.org/22/program-files/PP-17.htm)
+[Link to abstract](https://drive.google.com/file/d/14HTdGWiZePESkoU4TQ5-qmgxxBq_0krJ/view?usp=sharing)  \|  [ISMRM Pitch (#0532)](https://www.ismrm.org/22/program-files/PP-17.htm)
 
 ___
 
@@ -97,3 +97,5 @@ ___
 **Skills**: Python, Machine Learning, UI/UX, Research
 
 hackathon figma type beat used Lume AI or smth
+
+___
