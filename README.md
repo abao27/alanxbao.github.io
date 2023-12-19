@@ -14,7 +14,7 @@ cs oski man '25
 - [UCSD Radiology Research](#ucsd-radiology-research)
 - [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist)
 
-### Coin Dungeon
+### <span style="background-color:green">Coin Dungeon</span>
 ![coindungeon](/vid/coindungeon.mp4)
 
 **Skills**: Java, Graphic Design
