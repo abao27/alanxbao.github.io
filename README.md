@@ -3,7 +3,7 @@ cs oski man '25
 
 
 
-# _Projects_
+# Projects
 - [Coin Dungeon](#coin-dungeon)
 - [TaxTools](#taxtools)
 - [Terminal Snake](#terminal-snake)
