@@ -14,7 +14,7 @@ cs oski man '25
 
 ---
 
-## <u> <span style="color: rgb(37,168,240);">Coin Dungeon</span> <u>
+## <i> <span style="color: rgb(37,168,240);">Coin Dungeon</span> <i>
 ![coindungeon](/vid/coindungeon.mp4)
 
 **Skills**: Java, Graphic Design
@@ -29,7 +29,7 @@ In the demo above, I enter a seed and start the game, which generates a random w
 
 ___
 
-## <u> <span style="color: rgb(37,168,240);">TaxTools</span> <u>
+## <i> <span style="color: rgb(37,168,240);">TaxTools</span> <i>
 ![PCSTaxTools](/vid/pcstaxtools.mp4)
 
 **Skills**: JavaScript, Data Analysis, Research
@@ -40,7 +40,7 @@ In this demo, I play around with different settings (Fiscal Year, Marital Status
 
 ___
 
-## <u> <span style="color: rgb(37,168,240);">Terminal Snake</span> <u>
+## <i> <span style="color: rgb(37,168,240);">Terminal Snake</span> <i>
 ![Terminal Snake](/vid/snake.mp4)
 
 **Skills**: C
@@ -56,7 +56,7 @@ In the short snippet of the game demo above, I use the WASD keys to navigate the
 
 ___
 
-## <u> <span style="color: rgb(37,168,240);">SIXT33N Voice Controlled Robot</span> <u>
+## <i> <span style="color: rgb(37,168,240);">SIXT33N Voice Controlled Robot</span> <i>
 ![joever](/img/itsjoever.png)
 
 **Skills**: Arduino, Circuit Design and Analysis, Numpy, Linear Algebra
@@ -83,7 +83,7 @@ Due to course policy, there is no demo, but a list of runnable instructions are 
 
 ___
 
-## <u> <span style="color: rgb(37,168,240);">UCSD Radiology Research</span> <u>
+## <i> <span style="color: rgb(37,168,240);">UCSD Radiology Research</span> <i>
 **Skills**: Statistics, Data Analysis and Visualization, Matlab
 
 As a research intern for UCSD Radiology, I (did some statistical and data fitting and visualization with matlab or sum)
