@@ -67,7 +67,7 @@ some random breadboarding jawn plus arduino and C# coding or whatever the lang w
 
 ___
 
-## <u> <span style="color: rgb(37,168,240);">CS61CPU</span> <u>
+## <i> <span style="color: rgb(37,168,240);">CS61CPU</span> <i>
 **Skills**: CPU, Assembly (RISC-V), Logic Circuits
 
 In this project for my computer architecture class (CS61C), I built a simple 2-stage pipelined CPU that runs RISC-V instructions in Logisim. This challenged and tested my understanding of the RISC-V Datapath and logic circuits.
@@ -93,7 +93,7 @@ As a research intern for UCSD Radiology, I (did some statistical and data fittin
 
 ___
 
-## <u> <span style="color: rgb(37,168,240);">Arin Igor AI Therapist</span> <u>
+## <i> <span style="color: rgb(37,168,240);">Arin Igor AI Therapist</span> <i>
 **Skills**: Python, Machine Learning, UI/UX, Research
 
 hackathon figma type beat used Lume AI or smth
