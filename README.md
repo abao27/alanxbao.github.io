@@ -1,9 +1,9 @@
-# <span style="color: rgb(37,168,240);">About</span>   [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
+# About   [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
 cs oski man '25
 
 
 
-# <span style="color: rgb(37,168,240);">Projects</span>
+# __Projects__
 - [Coin Dungeon](#coin-dungeon)
 - [TaxTools](#taxtools)
 - [Terminal Snake](#terminal-snake)
