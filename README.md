@@ -14,7 +14,7 @@ cs oski man '25
 
 ---
 
-## <i> <span style="color: rgb(37,168,240);">Coin Dungeon</span> <i>
+## <u> Coin Dungeon <u>
 ![coindungeon](/vid/coindungeon.mp4)
 
 **Skills**: Java, Graphic Design
@@ -29,7 +29,7 @@ In the demo above, I enter a seed and start the game, which generates a random w
 
 ___
 
-## <i> <span style="color: rgb(37,168,240);">TaxTools</span> <i>
+## <u> TaxTools <u>
 ![PCSTaxTools](/vid/pcstaxtools.mp4)
 
 **Skills**: JavaScript, Data Analysis, Research
@@ -40,7 +40,7 @@ In this demo, I play around with different settings (Fiscal Year, Marital Status
 
 ___
 
-## <i> <span style="color: rgb(37,168,240);">Terminal Snake</span> <i>
+## <u> Terminal Snake <u>
 ![Terminal Snake](/vid/snake.mp4)
 
 **Skills**: C
@@ -56,7 +56,7 @@ In the short snippet of the game demo above, I use the WASD keys to navigate the
 
 ___
 
-## <i> <span style="color: rgb(37,168,240);">SIXT33N Voice Controlled Robot</span> <i>
+## <u>SIXT33N Voice Controlled Robot<u>
 ![joever](/img/itsjoever.png)
 
 **Skills**: Arduino, Circuit Design and Analysis, Numpy, Linear Algebra
@@ -67,7 +67,7 @@ some random breadboarding jawn plus arduino and C# coding or whatever the lang w
 
 ___
 
-## <i> <span style="color: rgb(37,168,240);">CS61CPU</span> <i>
+## <u>CS61CPU<u>
 **Skills**: CPU, Assembly (RISC-V), Logic Circuits
 
 In this project for my computer architecture class (CS61C), I built a simple 2-stage pipelined CPU that runs RISC-V instructions in Logisim. This challenged and tested my understanding of the RISC-V Datapath and logic circuits.
@@ -83,7 +83,7 @@ Due to course policy, there is no demo, but a list of runnable instructions are 
 
 ___
 
-## <i> <span style="color: rgb(37,168,240);">UCSD Radiology Research</span> <i>
+## <u> UCSD Radiology Research</span> <u>
 **Skills**: Statistics, Data Analysis and Visualization, Matlab
 
 As a research intern for UCSD Radiology, I (did some statistical and data fitting and visualization with matlab or sum)
@@ -93,7 +93,7 @@ As a research intern for UCSD Radiology, I (did some statistical and data fittin
 
 ___
 
-## <i> <span style="color: rgb(37,168,240);">Arin Igor AI Therapist</span> <i>
+## <u> Arin Igor AI Therapist <u>
 **Skills**: Python, Machine Learning, UI/UX, Research
 
 hackathon figma type beat used Lume AI or smth
