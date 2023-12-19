@@ -29,7 +29,7 @@ In the demo above, I enter a seed and start the game, which generates a random w
 
 ___
 
-## <span style="color: rgb(37,124,185);">TaxTools</span>
+## <span style="color: rgb(37,160,185);">TaxTools</span>
 ![PCSTaxTools](/vid/pcstaxtools.mp4)
 
 **Skills**: JavaScript, Data Analysis, Research
@@ -40,7 +40,7 @@ In this demo, I play around with different settings (Fiscal Year, Marital Status
 
 ___
 
-## <span style="color: rgb(37,124,185);">Terminal Snake</span>
+## <span style="color: rgb(37,87,185);">Terminal Snake</span>
 ![Terminal Snake](/vid/snake.mp4)
 
 **Skills**: C
@@ -56,7 +56,7 @@ In the short snippet of the game demo above, I use the WASD keys to navigate the
 
 ___
 
-## <span style="color: rgb(37,124,185);">SIXT33N Voice Controlled Robot</span>
+## <span style="color: rgb(37,80,130);">SIXT33N Voice Controlled Robot</span>
 ![joever](/img/itsjoever.png)
 
 **Skills**: Arduino, Circuit Design and Analysis, Numpy, Linear Algebra
@@ -67,7 +67,7 @@ some random breadboarding jawn plus arduino and C# coding or whatever the lang w
 
 ___
 
-## <span style="color: rgb(37,124,185);">CS61CPU</span>
+## <span style="color: rgb(37,168,240);">CS61CPU</span>
 **Skills**: CPU, Assembly (RISC-V), Logic Circuits
 
 In this project for my computer architecture class (CS61C), I built a simple 2-stage pipelined CPU that runs RISC-V instructions in Logisim. This challenged and tested my understanding of the RISC-V Datapath and logic circuits.
