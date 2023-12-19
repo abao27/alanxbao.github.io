@@ -1,4 +1,4 @@
-# About  [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
+# <u>About<u>  [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
 cs oski man '25
 
 
@@ -12,6 +12,7 @@ cs oski man '25
 - [UCSD Radiology Research](#ucsd-radiology-research)
 - [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist)
 
+---
 
 ## <span style="color: rgb(37,168,240);">Coin Dungeon</span>
 ![coindungeon](/vid/coindungeon.mp4)
