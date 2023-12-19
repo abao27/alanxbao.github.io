@@ -10,9 +10,10 @@ cs oski man '25
 - [SIXT33N Robot](#sixt33n-voice-controlled-robot)
 - [CS61CPU](#cs61cpu)
 - [UCSD Radiology Research](#ucsd-radiology-research)
-- [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist)
+- <span style="color: rgb(37,160,185);">[Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist)</span>
 
-## <span style="color: rgb(37,160,185);">Coin Dungeon</span>
+
+## <span style="color: rgb(37,168,240);">Coin Dungeon</span>
 ![coindungeon](/vid/coindungeon.mp4)
 
 **Skills**: Java, Graphic Design
@@ -27,7 +28,7 @@ In the demo above, I enter a seed and start the game, which generates a random w
 
 ___
 
-## <span style="color: rgb(37,160,185);">TaxTools</span>
+## <span style="color: rgb(37,168,240);">TaxTools</span>
 ![PCSTaxTools](/vid/pcstaxtools.mp4)
 
 **Skills**: JavaScript, Data Analysis, Research
@@ -38,7 +39,7 @@ In this demo, I play around with different settings (Fiscal Year, Marital Status
 
 ___
 
-## <span style="color: rgb(37,160,185);">Terminal Snake</span>
+## <span style="color: rgb(37,168,240);">Terminal Snake</span>
 ![Terminal Snake](/vid/snake.mp4)
 
 **Skills**: C
@@ -54,7 +55,7 @@ In the short snippet of the game demo above, I use the WASD keys to navigate the
 
 ___
 
-## <span style="color: rgb(37,160,185);">SIXT33N Voice Controlled Robot</span>
+## <span style="color: rgb(37,168,240);">SIXT33N Voice Controlled Robot</span>
 ![joever](/img/itsjoever.png)
 
 **Skills**: Arduino, Circuit Design and Analysis, Numpy, Linear Algebra
