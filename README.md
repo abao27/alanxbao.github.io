@@ -1,6 +1,4 @@
-# Mister Bao  [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
-
-# About
+# About  [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
 cs oski man '25
 
 
@@ -14,7 +12,7 @@ cs oski man '25
 - [UCSD Radiology Research](#ucsd-radiology-research)
 - [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist)
 
-## <span style="color: rgb(37,124,185);">Coin Dungeon</span>
+## <span style="color: rgb(37,160,185);">Coin Dungeon</span>
 ![coindungeon](/vid/coindungeon.mp4)
 
 **Skills**: Java, Graphic Design
@@ -40,7 +38,7 @@ In this demo, I play around with different settings (Fiscal Year, Marital Status
 
 ___
 
-## <span style="color: rgb(37,87,185);">Terminal Snake</span>
+## <span style="color: rgb(37,160,185);">Terminal Snake</span>
 ![Terminal Snake](/vid/snake.mp4)
 
 **Skills**: C
@@ -56,7 +54,7 @@ In the short snippet of the game demo above, I use the WASD keys to navigate the
 
 ___
 
-## <span style="color: rgb(37,80,130);">SIXT33N Voice Controlled Robot</span>
+## <span style="color: rgb(37,160,185);">SIXT33N Voice Controlled Robot</span>
 ![joever](/img/itsjoever.png)
 
 **Skills**: Arduino, Circuit Design and Analysis, Numpy, Linear Algebra
@@ -83,7 +81,7 @@ Due to course policy, there is no demo, but a list of runnable instructions are 
 
 ___
 
-## <span style="color: rgb(37,124,185);">UCSD Radiology Research</span>
+## <span style="color: rgb(37,168,240);">UCSD Radiology Research</span>
 **Skills**: Statistics, Data Analysis and Visualization, Matlab
 
 As a research intern for UCSD Radiology, I (did some statistical and data fitting and visualization with matlab or sum)
@@ -93,7 +91,7 @@ As a research intern for UCSD Radiology, I (did some statistical and data fittin
 
 ___
 
-## <span style="color: rgb(37,124,185);">Arin Igor AI Therapist</span>
+## <span style="color: rgb(37,168,240);">Arin Igor AI Therapist</span>
 **Skills**: Python, Machine Learning, UI/UX, Research
 
 hackathon figma type beat used Lume AI or smth
