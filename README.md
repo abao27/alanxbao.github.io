@@ -3,14 +3,14 @@ cs oski man '25
 
 
 
-# Projects
+# <u>Projects<u>
 - [Coin Dungeon](#coin-dungeon)
 - [TaxTools](#taxtools)
 - [Terminal Snake](#terminal-snake)
 - [SIXT33N Robot](#sixt33n-voice-controlled-robot)
 - [CS61CPU](#cs61cpu)
 - [UCSD Radiology Research](#ucsd-radiology-research)
-- <span style="color: rgb(37,160,185);">[Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist)</span>
+- [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist)
 
 
 ## <span style="color: rgb(37,168,240);">Coin Dungeon</span>
