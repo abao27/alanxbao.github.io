@@ -5,7 +5,7 @@ My technical interests include artificial intelligence, machine learning, softwa
 
 Outside of computer science, I enjoy running, dancing, cooking, fashion, music and puzzle games (i.e. NYT Mini). I love going on adventures, exploring the unknown, and challenging myself. Most of all, I love talking to and meeting people!
 
-So if you have any questions, or would like to chat, please contact me with the icons above!
+So if you have any questions, or would like to chat, please contact me by clicking on the icons above!
 
 
 # Projects
