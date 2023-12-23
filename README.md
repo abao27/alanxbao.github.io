@@ -1,5 +1,10 @@
 # About   [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
-Hello! I am Alan :) I code sometimes
+Hello! I am Alan, a student at UC Berkeley studying EECS and Math. I've lived most of my life in San Diego, but have also lived in many other states such as Virginia and Tennessee.
+
+My technical interests include artificial intelligence, machine learning, software and hardware. I'm especially passionate about applying computer science, math and statistics to solve various industry and everyday problems. Thus, I've taken on multiple challenging projects throughout the years, ranging from designing video games to analyzing data for medical research.
+
+Outside of computer science, I enjoy running, dancing, cooking, fashion, music and puzzle games (i.e. NYT Mini). I love going on adventures, exploring the unknown, and challenging myself. Most of all, I love talking to and meeting people! So if you have any questions about me, please connect with my LinkedIn or email me!
+
 
 
 
