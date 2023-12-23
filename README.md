@@ -1,5 +1,5 @@
 # About   [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
-cs oski man '25
+Hello! I am Alan :) L0L W0W
 
 
 
@@ -61,11 +61,9 @@ ___
 
 **Skills**: Arduino, Circuit Design and Analysis, Numpy, Linear Algebra
 
-burning my finger tip with the regulator gg
+SIXT33N is a voice-controlled car built with breadboarding components and an Ardunio Leonardo. The robot listens to voice commands and drives on a pre-determined path based on the given command. For example, saying "Go" will cause the robot to drive forward.
 
-some random breadboarding jawn plus arduino and C# coding or whatever the lang was that make robot move when spoken to also did sum linalg while was at it
-
-click [here](https://drive.google.com/file/d/1qSTKLlG3OlZxq7_wYcXO00HrnyB-NUdB/view?usp=sharing).
+To read more about how we built SIXT33N, click [here](https://drive.google.com/file/d/1qSTKLlG3OlZxq7_wYcXO00HrnyB-NUdB/view?usp=sharing).
 
 ___
 
@@ -88,8 +86,7 @@ ___
 ## *UCSD Radiology Research*
 **Skills**: Statistics, Data Analysis and Visualization, Matlab
 
-As a research intern for UCSD Radiology, I (did some statistical and data fitting and visualization with matlab or sum)
-
+As a research intern for UCSD Radiology, I statistically analyzed knee data and visualized it using a pre-written Matlab program. Read more about the research in the links below.
 
 [Link to abstract](https://drive.google.com/file/d/14HTdGWiZePESkoU4TQ5-qmgxxBq_0krJ/view?usp=sharing)  \|  [ISMRM Pitch (#0532)](https://www.ismrm.org/22/program-files/PP-17.htm)
 
@@ -98,6 +95,6 @@ ___
 ## *Arin Igor AI Therapist*
 **Skills**: Python, Machine Learning, UI/UX, Research
 
-hackathon figma type beat used Lume AI or smth
+Arin Igor is an AI project idea birthed at a CalHacks hackathon. Using Hume AI API and something else idk. So far, our 
 
 ___
