@@ -4,8 +4,8 @@ logo: /img/chicken.png
 description: Personal Portfolio
 theme: jekyll-theme-minimal
 github: False
-image:
-  background: /img/chicken.png
+#image:
+  #background: /img/chicken.png
 
 author:
   name: Alan Bao
