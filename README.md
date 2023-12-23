@@ -57,13 +57,15 @@ In the short snippet of the game demo above, I use the WASD keys to navigate the
 ___
 
 ## *SIXT33N Voice Controlled Robot*
-![joever](/img/itsjoever.png)
+![SIXT33N](/img/SIXT33N.png)
 
 **Skills**: Arduino, Circuit Design and Analysis, Numpy, Linear Algebra
 
 burning my finger tip with the regulator gg
 
 some random breadboarding jawn plus arduino and C# coding or whatever the lang was that make robot move when spoken to also did sum linalg while was at it
+
+click [here](https://drive.google.com/file/d/1qSTKLlG3OlZxq7_wYcXO00HrnyB-NUdB/view?usp=sharing).
 
 ___
 
