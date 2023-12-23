@@ -1,11 +1,10 @@
 title: Alan Bao
 color: 2ad9fa
 description: Personal Portfolio
-logo: /img/chicken.png
+#logo: /img/chicken.png
 theme: jekyll-theme-minimal
 github: False
-#image:
-  #background: /img/chicken.png
+image: /img/chicken.png
 
 author:
   name: Alan Bao
