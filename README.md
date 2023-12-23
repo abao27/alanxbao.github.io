@@ -104,6 +104,6 @@ ___
 
 Birthed at a hackathon, Arin Igor is a therapist with a twist: it's an AI. Currently in its infancy, Arin Igor can only detect emotions in faces and language, but is unable to give therapy. Our team is working on training a chat-bot, similar to ChatGPT, so that the user can simulate chatting with an actual therapist. Credits to Hume AI API for making emotion detection possible.
 
-In the video above, a link to an image of a person's face is input to our code, which outputs the top 3 emotions detected. The photo on the right is a prototype of the Arin Igor Therapist website, which is intended to be freely accessed on the web.
+In the video above, a link to an image of a person's face is input to our code, which outputs the top 3 emotions detected. The photo below the video shows a prototype of the Arin Igor Therapist website, which is intended to be freely accessed on the web.
 
 ___
