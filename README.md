@@ -1,9 +1,9 @@
 # About   [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
-Hello! I'm Alan, a student at UC Berkeley studying EECS and Math. I've lived most of my life in San Diego, but have also lived in many other states such as Virginia and Tennessee.
+Hello! I'm Alan, a student at UC Berkeley studying EECS and Math. I've lived most of my life in San Diego, but have also lived in many other states such as Virginia and Tennessee. My MBTI is *ENFJ-A*.
 
 My technical interests include artificial intelligence, machine learning, software and hardware. I'm especially passionate about applying computer science, math and statistics to solve various industry and everyday problems. Thus, I've taken on multiple challenging projects throughout the years, ranging from designing video games to analyzing data for medical research.
 
-Outside of computer science, I enjoy running, dancing, cooking, fashion, music and puzzle games (i.e. NYT Mini). My MBTI is *ENFJ-A*, and I love going on adventures, exploring the unknown, and challenging myself. Most of all, I love talking to and meeting people!
+Outside of computer science, I enjoy running, dancing, cooking, fashion, music and puzzle games (i.e. NYT Mini). I love going on adventures, exploring the unknown, and challenging myself. Most of all, I love talking to and meeting people!
 
 So if you have any questions, or would like to chat, please connect with my Linkedin or email me!
 
