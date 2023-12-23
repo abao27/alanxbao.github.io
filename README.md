@@ -7,7 +7,7 @@ Outside of computer science, I enjoy running, dancing, cooking, fashion, music a
 
 So if you have any questions, or would like to chat, please connect with my Linkedin or email me!
 
-
+**MBTI**: ENFJ-A
 
 
 # Projects
