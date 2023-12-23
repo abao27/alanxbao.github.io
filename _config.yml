@@ -1,8 +1,9 @@
-title: Alan Bao's Personal Portfolio
+title: Alan Bao's Personal Website
 color: 2ad9fa
 logo: /img/chicken.png
 theme: jekyll-theme-minimal
 github: False
+description:
 
 author:
   name: Alan Bao
