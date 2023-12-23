@@ -1,5 +1,5 @@
 # About   [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
-Hello! I am Alan :) L0L W0W
+Hello! I am Alan :) I code sometimes
 
 
 
@@ -10,7 +10,7 @@ Hello! I am Alan :) L0L W0W
 - [SIXT33N Robot](#sixt33n-voice-controlled-robot)
 - [CS61CPU](#cs61cpu)
 - [UCSD Radiology Research](#ucsd-radiology-research)
-- [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist)
+- [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist-prototype)
 
 ---
 
@@ -92,9 +92,13 @@ As a research intern for UCSD Radiology, I statistically analyzed knee data and 
 
 ___
 
-## *Arin Igor AI Therapist*
-**Skills**: Python, Machine Learning, UI/UX, Research
+## *Arin Igor AI Therapist Prototype*
+![Arin Igor Code Demo](/vid/arin_igor.mp4)    ![Arin Igor Website](/img/arin_igor.png)
 
-Arin Igor is an AI project idea birthed at a CalHacks hackathon. Using Hume AI API and something else idk. So far, our 
+**Skills**: Python, Machine Learning, Web Design, UI/UX, Research
+
+Birthed at a hackathon, Arin Igor is a therapist with a twist: it's an AI. Currently in its infancy, Arin Igor can only detect emotions in faces and language, but is unable to give therapy. Our team is working on training a chat-bot, similar to ChatGPT, so that the user can simulate chatting with an actual therapist. Credits to Hume AI API for making emotion detection possible.
+
+In the video above, a link to an image of a person's face is input to our code, which outputs the top 3 emotions detected. In the photo on the right is a prototype of the Arin Igor Therapist website, which is intended to be freely accessed on the web.
 
 ___
