@@ -3,12 +3,12 @@ Hello! I'm Alan, a student at UC Berkeley studying EECS and Math. I've lived mos
 
 My technical interests include artificial intelligence, machine learning, cybersecurity, software and hardware. I'm especially passionate about applying computer science, math and statistics to solve various industry and everyday problems. Thus, I've taken on multiple challenging projects throughout the years, ranging from designing video games to analyzing data for medical research.
 
-Outside of computer science, I enjoy running, dancing, cooking, fashion, music and puzzle games (i.e. NYT Mini). I love going on adventures, exploring the unknown, and challenging myself. Most of all, I love talking to and meeting people!
+Outside of computer science, I enjoy a variety of hobbies, such as running, dancing, cooking, fashion, music and puzzle games (i.e. NYT Mini). I love going on adventures, exploring the unknown, and challenging myself. Recently, I decided to start learning German and Cantonese. Above all else, I love talking to and meeting people!
 
 So if you have any questions, or would like to chat, please contact me by clicking on the icons above!
 
 
-# Projects
+# Projects (Updated May 2024)
 - [Coin Dungeon](#coin-dungeon)
 - [TaxTools](#taxtools)
 - [Terminal Snake](#terminal-snake)
@@ -16,6 +16,7 @@ So if you have any questions, or would like to chat, please contact me by clicki
 - [CS61CPU](#cs61cpu)
 - [UCSD Radiology Research](#ucsd-radiology-research)
 - [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist-prototype)
+- [UC Berkeley Assist.org (Work in Progress)](#uc-berkeley-assist)
 
 ---
 
@@ -107,3 +108,9 @@ Birthed at a hackathon, Arin Igor is a therapist with a twist: it's an AI. Curre
 In the video above, a link to an image of a person's face is input to our code, which outputs the top 3 emotions detected. The photo below the video shows a prototype of the Arin Igor Therapist website, which is intended to be freely accessed on the web.
 
 ___
+
+## *UC Berkeley Assist*
+
+**Skills**: Python, Django, Webscraping, Research
+
+"UC Berkeley Assist" is a passion project started by my friends and I to tailor Assist.org for UC Berkeley students to make course research easier. Assist.org is a website that outlines courses transferable from California Community Colleges (CCC) to Californian colleges including UC Berkeley. Currently, the team is in the process of building a web scraper to automate data collection.
