@@ -8,7 +8,7 @@ Outside of computer science, I enjoy a variety of hobbies, such as running, danc
 So if you have any questions, or would like to chat, please contact me by clicking on the icons above!
 
 
-# Projects (Updated August 2025)
+# Projects (Updated January 2025)
 - [CS 180 Intro to Computer Vision Projects](#cs-180-intro-to-computer-vision-projects)
 - [Coin Dungeon](#coin-dungeon)
 - [TaxTools](#taxtools)
