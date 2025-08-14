@@ -23,10 +23,11 @@ So if you have any questions, or would like to chat, please contact me by clicki
 
 ## *CS 180 Intro to Computer Vision Projects*
 ![mancampfire](/img/mancampfire.jpg)
-**Project Portfolio Link:** https://abao27.github.io
+**Project Portfolio Link:** [https://abao27.github.io](https://abao27.github.io)
+
 **Skills**: Python, Pytorch, Numpy, Computer Vision
 
-In this class, I explored the various derivations and applications of computer vision, including image generation and manipulation. More specifics about my process and deliverables are attached in the link above.
+In this class, I explored the various derivations and applications of computer vision, including image generation and manipulation. The image above shows a visual anagram; an image I generated to appear as people around a campfire in one orientation, and an old man in another. More specifics about my process and deliverables are attached in the link above.
 
 ___
 
