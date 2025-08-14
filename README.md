@@ -21,7 +21,7 @@ So if you have any questions, or would like to chat, please contact me by clicki
 
 ---
 
-## *CS 180 Intro to Computer Vision Projects*
+## *Computer Vision Projects*
 ![mancampfire](/img/mancampfire.jpg)
 **Project Portfolio Link:** [https://abao27.github.io](https://abao27.github.io)
 
