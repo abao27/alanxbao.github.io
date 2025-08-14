@@ -9,7 +9,7 @@ So if you have any questions, or would like to chat, please contact me by clicki
 
 
 # Projects (Updated January 2025)
-- [CS 180 Intro to Computer Vision Projects](#cs-180-intro-to-computer-vision-projects)
+- [Computer Vision Projects](#cs-180-intro-to-computer-vision-projects)
 - [Coin Dungeon](#coin-dungeon)
 - [TaxTools](#taxtools)
 - [Terminal Snake](#terminal-snake)
