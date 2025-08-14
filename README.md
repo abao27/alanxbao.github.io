@@ -1,7 +1,7 @@
 # About   [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
 Hello! I'm Alan, a student at UC Berkeley studying EECS and Math. I've lived most of my life in San Diego, but have also lived in many other states such as Virginia and Tennessee. My MBTI is *ENFJ-A*.
 
-My technical interests include artificial intelligence, machine learning, cybersecurity, software and hardware. I'm especially passionate about applying computer science, math and statistics to solve various industry and everyday problems. Thus, I've taken on multiple challenging projects throughout the years, ranging from designing video games to analyzing data for medical research.
+My technical interests include software engineering, machine learning, computer vision, cybersecurity and hardware. I'm especially passionate about applying computer science, math and statistics to solve various industry and everyday problems. Most recently, in Summer 2025, I interned at Capital One as a Software Engineer, where I helped design the foundations for a new graph-based decisioning system for auto loans.
 
 Outside of computer science, I enjoy a variety of hobbies, such as running, dancing, cooking, fashion, music and puzzle games (i.e. NYT Mini). I love going on adventures, exploring the unknown, and challenging myself. Recently, I decided to start learning German and Cantonese. Above all else, I love talking to and meeting people!
 
