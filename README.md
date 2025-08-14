@@ -8,18 +8,27 @@ Outside of computer science, I enjoy a variety of hobbies, such as running, danc
 So if you have any questions, or would like to chat, please contact me by clicking on the icons above!
 
 
-# Projects (Updated August 2024)
+# Projects (Updated August 2025)
+- [CS 180 Intro to Computer Vision Projects](#cs-180-intro-to-computer-vision-projects)
 - [Coin Dungeon](#coin-dungeon)
 - [TaxTools](#taxtools)
 - [Terminal Snake](#terminal-snake)
 - [SIXT33N Robot](#sixt33n-voice-controlled-robot)
 - [CS61CPU](#cs61cpu)
 - [UCSD Radiology Research](#ucsd-radiology-research)
-- [CS 180 Intro to Computer Vision Projects (Work in Progress)](#cs-180-intro-to-computer-vision-projects)
 - [Arin Igor, Your AI Therapist (Work in Progress)](#arin-igor-ai-therapist-prototype)
 - [UC Berkeley Assist.org (Work in Progress)](#uc-berkeley-assist)
 
 ---
+
+## *CS 180 Intro to Computer Vision Projects*
+![mancampfire](/img/mancampfire.jpg)
+**Project Portfolio Link:** https://abao27.github.io
+**Skills**: Python, Pytorch, Numpy, Computer Vision
+
+In this class, I explored the various derivations and applications of computer vision, including image generation and manipulation. More specifics about my process and deliverables are attached in the link above.
+
+___
 
 ## *Coin Dungeon*
 ![coindungeon](/vid/coindungeon.mp4)
@@ -97,10 +106,6 @@ As a research intern for UCSD Radiology, I statistically analyzed knee data and 
 
 [Link to abstract](https://drive.google.com/file/d/14HTdGWiZePESkoU4TQ5-qmgxxBq_0krJ/view?usp=sharing)  \|  [ISMRM Pitch (#0532)](https://www.ismrm.org/22/program-files/PP-17.htm)
 
-___
-
-## *CS 180 Intro to Computer Vision Projects*
-**Project Portfolio Link:** https://abao27.github.io
 
 ---
 
