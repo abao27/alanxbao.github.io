@@ -1,3 +1,6 @@
+# Note
+Migrating site to React. Check it out: ![https://alanbao.org](https://alanbao.org)
+
 # About   [![linkedin](img/linkedin.png)](http://linkedin.com/in/alan-bao/)  <a href="mailto:alanb@berkeley.edu">![email](img/email.png)</a>
 Hello! I'm Alan, a student at UC Berkeley studying EECS and Math. I've lived most of my life in San Diego, but have also lived in many other states such as Virginia and Tennessee. My MBTI is *ENFJ-A*.
 
